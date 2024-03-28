@@ -14,7 +14,7 @@ This repository contains code for performing grouped time series cross-validatio
 2. **Clone the Repository:**
    - Clone this repository to your local machine:
      ```
-     git clone https://github.com/<username>/<repository_name>.git
+     git clone https://github.com/AdityaGupta1509/Nested-CV.git
      ```
 
 3. **Run the Code:**
